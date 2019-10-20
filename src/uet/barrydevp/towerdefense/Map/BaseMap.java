@@ -1,0 +1,1 @@
+package uet.barrydevp.towerdefense.Map;public abstract class BaseMap {}
