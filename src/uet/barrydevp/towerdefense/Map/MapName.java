@@ -1,0 +1,1 @@
+package uet.barrydevp.towerdefense.Map;public enum MapName {    MapLvl1,    MapLvl2,    MapLvl3,    MapLvl4,}
