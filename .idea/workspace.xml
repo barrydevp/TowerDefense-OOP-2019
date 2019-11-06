@@ -2,29 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/AnimationEffect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/buttons/DefineButton2_61/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/buttons/DefineButton2_61/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/buttons/level1.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/buttons/level1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/buttons/level2.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/buttons/level2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/buttons/level3.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/buttons/level3.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameScene.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameSpriteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameSpriteManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/BaseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/BaseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/MapName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/MapName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/BaseMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/BaseMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/GreenPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/GreenPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/GreenTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/GreenTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/SilverPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/SilverPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/WhiteTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Bosses/WhiteTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/BrowMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/BrowMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/GreenMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/GreenMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/RedMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/RedMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/SilverMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/Minions/SilverMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/MonsterName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Monster/MonsterName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/BaseSprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/BaseSprite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/RootTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/RootTower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/TowerSprite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/TowerSprite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/BaseTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/BaseTower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleCanon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleCanon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleFlyGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleFlyGun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleMissile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/DoubleMissile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunRed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunWhite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/MiniGunWhite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleCanon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleCanon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleFlyGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleFlyGun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleMissile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Tower/SingleMissile.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -130,20 +135,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="uet.barrydevp.towerdefense.Sprite" />
       <recent name="uet.barrydevp.towerdefense.Tower" />
       <recent name="uet.barrydevp.towerdefense.Monster" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sample" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="uet.barrydevp.towerdefense" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/sample" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
@@ -325,6 +330,11 @@
       <workItem from="1572709102110" duration="4902000" />
       <workItem from="1572759043051" duration="18038000" />
       <workItem from="1572777594841" duration="19727000" />
+      <workItem from="1572878106682" duration="4799000" />
+      <workItem from="1572965608147" duration="6417000" />
+      <workItem from="1572999387521" duration="1911000" />
+      <workItem from="1573001777971" duration="3156000" />
+      <workItem from="1573005565752" duration="6554000" />
     </task>
     <servers />
   </component>
