@@ -1,1 +1,0 @@
-package uet.barrydevp.towerdefense.Monster;public enum MonsterName {    GreenMinion,    RedMinion,    SilverMinion,    BrowMinion,    GreenPlane,    SilverPlane,    GreenTank,    WhiteTank}

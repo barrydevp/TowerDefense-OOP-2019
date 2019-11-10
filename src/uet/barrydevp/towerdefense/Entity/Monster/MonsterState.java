@@ -1,0 +1,1 @@
+package uet.barrydevp.towerdefense.Entity.Monster;public enum MonsterState {    stateNone,    stateWalkRight,    stateWalkLeft,    stateWalkUp,    stateWalkDown,    stateAttackLeft,    stateAttackRight,    stateDeath,    stateFrozen}
