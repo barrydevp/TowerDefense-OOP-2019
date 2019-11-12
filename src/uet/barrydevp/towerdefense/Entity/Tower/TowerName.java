@@ -1,1 +1,1 @@
-package uet.barrydevp.towerdefense.Entity.Tower;public enum TowerName {    SingleCanon,    DoubleCanon,    SingleMissile,    DoubleMissile,    MiniGunGreen,    MiniGunWhite,    MiniGunBlue,    MiniGunRed,    SingleFlyGun,    DoubleFlyGun,}
+package uet.barrydevp.towerdefense.Entity.Tower;public enum TowerName {    SingleCanon,    DoubleCanon,    TripleCanon,    SingleMissile,    DoubleMissile,    MiniGunGreen,    MiniGunWhite,    MiniGunUltraWhite,    MiniGunBlue,    MiniGunRed,    MiniGunUltraRed,    SingleFlyGun,    DoubleFlyGun,}
