@@ -2,81 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/UltraRedBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/UltraWhiteBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/YellowBrowBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/BluePlane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/BlueMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/GreenBlackMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/GreenBrowMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/RedBrowMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/UltraBlueMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/UltraBrowMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/UltraGreenMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/UltraRedMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/WhiteMinion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunUltraRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunUltraWhite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/TripleCanon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameAudio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TowerDefenseJFX.zip" beforeDir="false" afterPath="$PROJECT_DIR$/TowerDefenseJFX.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile233.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile234.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile235.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile235.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile236.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile236.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile237.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile237.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile238.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile238.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile239.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile239.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile240.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile241.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile241.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile242.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile242.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile243.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile243.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile244.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile244.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile253.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile253.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile254.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile254.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile255.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile255.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile256.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile257.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile258.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile259.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/PNG/Defaultsize/towerDefense_tile260.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BigRocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BigRocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BlueBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BlueBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BrowBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BrowBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BulletName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/BulletName.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/GreenBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/GreenBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/RedBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/RedBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/Rocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/Rocket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/SilverBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/SilverBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/YellowBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/YellowBullet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/YellowSilverBullet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Bullet/YellowSilverBullet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/BaseMonster.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/BaseMonster.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/GreenPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/GreenPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/GreenTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/GreenTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/SilverPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/SilverPlane.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/WhiteTank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Bosses/WhiteTank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/BrowMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/BrowMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/GreenMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/GreenMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/RedMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/RedMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/SilverMinion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/Minions/SilverMinion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/MonsterName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Monster/MonsterName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/BaseTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/BaseTower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleCanon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleCanon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleFlyGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleFlyGun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleMissile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/DoubleMissile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunBlue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunGreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunRed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunWhite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/MiniGunWhite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleCanon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleCanon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleFlyGun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleFlyGun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleMissile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/SingleMissile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/TowerName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Entity/Tower/TowerName.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameSpriteManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Game/GameSpriteManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/BaseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/BaseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/MapLvl1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/MapLvl1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Map/Maplvl11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/RootTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/uet/barrydevp/towerdefense/Sprite/RootTower.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -391,7 +323,8 @@
       <workItem from="1573305855755" duration="4081000" />
       <workItem from="1573386192817" duration="12971000" />
       <workItem from="1573437274235" duration="3991000" />
-      <workItem from="1573572427154" duration="3484000" />
+      <workItem from="1573572427154" duration="4086000" />
+      <workItem from="1573914745868" duration="2135000" />
     </task>
     <servers />
   </component>
